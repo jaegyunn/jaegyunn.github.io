@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Jaegyun Im"
   avatar           : "profile.png"
-  bio              : "B.S student
-                      School of Electrical Engineering and Computer Science
-                      GIST"
+  bio              : "B.S student<br>School of Electrical Engineering and Computer Science<br>GIST"
   location         : "Gwangju, Republic of Korea"
   employer         :
   pubmed           : 
