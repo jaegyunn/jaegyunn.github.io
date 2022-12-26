@@ -14,7 +14,7 @@ Research Interest
 
 Education
 ======
-* B.S. in School of Electrical Engineering and Computer Science, Gist, 2019 - present
+* B.S. in School of Electrical Engineering and Computer Science, GIST, 2019 - present
 
 Work experience
 ======
