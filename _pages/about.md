@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,22 +10,18 @@ redirect_from:
 
 Research Interest
 =====
-*
+* Anomaly Detection & Category Classification
 
 Education
 ======
 * B.S. in School of Electrical Engineering and Computer Science, GIST, 2019 - present
 
-Work experience
+Research experience
 ======
-* Research Interns, 01/2023 - Present
+* Research Interns, 01 / 2023 - Present
   * GIST
   * Data Science LAB
   * Supervisor: [Sundong Kim](http://sundong.kim)
-  
-Skills
-======
-*
 
 Publications
 ======
@@ -33,7 +29,5 @@ Publications
 Talks
 ======
   
-Portfolio
+Project
 ======
-
-
