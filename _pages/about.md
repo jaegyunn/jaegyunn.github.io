@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am B.S. student at School of Electrical Engineering and Computer Science, GIST
+
 Research Interest
 =====
 * Anomaly Detection & Category Classification
