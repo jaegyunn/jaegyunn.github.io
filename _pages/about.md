@@ -34,7 +34,8 @@ Publications
   
 * Unraveling the ARC Puzzle: Mimicking Human Solutions with Object-Centric Decision Transformer \
   Jaehyun Park, Jaegyun Im, Sanha Hwang, Mintaek Lim, Sabina Ualibekova, Sejin Kim, Sundong Kim \
-  ICML Workshop on Interactive Learning with Implicit Human Feedback, 2023
+  ICML Workshop on Interactive Learning with Implicit Human Feedback, 2023 \
+  [[pdf]](https://arxiv.org/abs/2306.08204)
   
 Talks
 ======
