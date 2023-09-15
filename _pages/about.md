@@ -10,6 +10,8 @@ redirect_from:
 
 I am B.S. student at School of Electrical Engineering and Computer Science, GIST
 
+---
+
 Research Interest
 =====
 * Big Data Analysis and Management
