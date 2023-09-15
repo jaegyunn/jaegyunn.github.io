@@ -34,7 +34,7 @@ Experience
 ### Research Interns
 * GIST
 * Data Science LAB
-* Supervisor: [Sundong Kim](http://sundong.kim) \
+* Supervisor: [Sundong Kim](http://sundong.kim)
 * 01 / 2023 - Present
 
 ---
