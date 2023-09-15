@@ -3,8 +3,11 @@ layout: archive
 title: "Project"
 permalink: /Project/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+2023
+--- 
+* ML Study
+  * Study with the ISLP Book
+* PyTorch Study
+  * Implementing the GoogleNet, ResNet, DensNet and Vistion Transformers
