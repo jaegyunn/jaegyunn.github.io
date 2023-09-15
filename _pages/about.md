@@ -19,6 +19,7 @@ Research Interest
 
 * Generative AI
 
+
 Education
 ======
 ---
@@ -26,6 +27,7 @@ Education
 * in School of Electrical Engineering and Computer Science
 * Minors in Mathematics, Economics and Business
 * 2019 - present
+
 
 Experience
 ======
@@ -35,6 +37,7 @@ Experience
 * Data Science LAB
 * Supervisor: [Sundong Kim](http://sundong.kim) \
 * 01 / 2023 - Present
+
 
 Publications
 ======
@@ -48,10 +51,12 @@ Korea Computer Congress (KCC), 2023.
 Jaehyun Park, **Jaegyun Im**, Sanha Hwang, Mintaek Lim, Sabina Ualibekova, Sejin Kim, Sundong Kim \
 ICML Workshop on Interactive Learning with Implicit Human Feedback, 2023 \
 [[pdf]](https://arxiv.org/abs/2306.08204)
+
   
 Talks
 ======
 ---
+
   
 Project
 ======
@@ -61,6 +66,7 @@ Project
 
 ### PyTorch Study
 * Implementing the GoogleNet, ResNet, DensNet and Vistion Transformers
+
 
 Skills
 =====
@@ -73,6 +79,7 @@ Skills
 * English
   * TOEIC 880/990
   * Aug 2019
+
 
 Courses
 =====
@@ -91,6 +98,7 @@ Courses
 * **Economics and Business**
   * Microeconomics, Macroeconomics, Management, Global Economy, Public Finance
 
+
 Scholarship
 =====
 ---
@@ -99,6 +107,7 @@ Scholarship
 
 * GIST Scholarship for Academic Achievement
   * Fall 2022
+
  
 Militery Service
 =====
