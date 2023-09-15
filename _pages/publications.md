@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+2023
+--- 
 * 의사결정 트랜스포머를 사용한 추상화와 추론 \
   (Abstraction and Reasoning Challenge with Decision Transformer) \
   Jaehyun Park, Jaegyun Im, Youngdo Lee, Donghyeon Shin, Sejin Kim, Sundong Kim \
