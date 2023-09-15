@@ -12,6 +12,7 @@ I am B.S. student at School of Electrical Engineering and Computer Science, GIST
 
 Research Interest
 =====
+---
 * Big Data Analysis and Management
 
 * Machine Learning and Deep Learning
@@ -20,6 +21,7 @@ Research Interest
 
 Education
 ======
+---
 ### GIST B.S.
 * in School of Electrical Engineering and Computer Science
 * Minors in Mathematics, Economics and Business
@@ -27,6 +29,7 @@ Education
 
 Experience
 ======
+---
 ### Research Interns
 * GIST
 * Data Science LAB
@@ -35,6 +38,7 @@ Experience
 
 Publications
 ======
+---
 ### 의사결정 트랜스포머를 사용한 추상화와 추론
 (Abstraction and Reasoning Challenge with Decision Transformer) \
 Jaehyun Park, **Jaegyun Im**, Youngdo Lee, Donghyeon Shin, Sejin Kim, Sundong Kim \
@@ -47,10 +51,11 @@ ICML Workshop on Interactive Learning with Implicit Human Feedback, 2023 \
   
 Talks
 ======
-
+---
   
 Project
 ======
+---
 ### ML Study
 * Study with the ISLP Book
 
@@ -59,6 +64,7 @@ Project
 
 Skills
 =====
+---
 ### Programming Language
 * Python, PyTorch
 
@@ -70,22 +76,24 @@ Skills
 
 Courses
 =====
+---
 ### Major
-* #### Electrical Engineering
+* **Electrical Engineering**
   * Engineering Electromagnetics 1 & 2, Electric Circuit
 
-* #### Computer Science
+* **Computer Science**
     * Data Structure, Algorithms, Computer Systems, Signals and Systems, Automata, System Programming(In Progress), Database Systems(In Progress)
   
 ### Minor
-* #### Mathematics
+* **Mathematics**
   * Single Variable Calculus, Multi Variable Calculus, Linear Algebra, Differential Equations, Probability and Statistics, Measure and Probability Theory, Complex Analysis(In Progress), Graph Theory(In Progress)
 
-* #### Economics and Business
+* **Economics and Business**
   * Microeconomics, Macroeconomics, Management, Global Economy, Public Finance
 
 Scholarship
 =====
+---
 * Government Sponsored Student
   * 2019 - present
 
@@ -94,5 +102,6 @@ Scholarship
  
 Militery Service
 =====
+---
 * Republic of Korea Army
   * Feb 2020 - Aug 2021
