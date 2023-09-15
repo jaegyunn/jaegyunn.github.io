@@ -16,7 +16,7 @@ Research Interest
 
 Education
 ======
-* B.S. in School of Electrical Engineering and Computer Science, GIST, 2019 - present
+* B.S. in School of Electrical Engineering and Computer Science / Minors in Mathematics, Economics and Business, GIST, 2019 - present
 
 Research experience
 ======
@@ -39,6 +39,8 @@ Publications
   
 Talks
 ======
+
   
 Project
 ======
+
