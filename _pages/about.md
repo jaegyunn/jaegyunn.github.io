@@ -18,6 +18,8 @@ Research Interest
 
 * Machine Learning and Deep Learning
 
+* Recommendation System
+
 * Generative AI
 
  ---
