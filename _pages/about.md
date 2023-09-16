@@ -111,6 +111,15 @@ Scholarship
   * Fall 2022
 
 ---
+
+License
+=====
+* Korean History Proficiency Test
+  * Level 1
+* Taekwondo
+  * 4th-degree black belt
+
+---
  
 Militery Service
 =====
