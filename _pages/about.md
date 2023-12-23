@@ -18,10 +18,6 @@ Research Interest
 
 * Machine Learning and Deep Learning
 
-* Recommendation System
-
-* Generative AI
-
  ---
 
 Education
@@ -39,7 +35,7 @@ Experience
 * GIST
 * Data Science LAB
 * Supervisor: [Sundong Kim](http://sundong.kim)
-* 01 / 2023 - Present
+* 01 / 2023 - 12 / 2023
 
 ---
 
@@ -54,6 +50,11 @@ Korea Computer Congress (KCC), 2023.
 Jaehyun Park, **Jaegyun Im**, Sanha Hwang, Mintaek Lim, Sabina Ualibekova, Sejin Kim, Sundong Kim \
 ICML Workshop on Interactive Learning with Implicit Human Feedback, 2023 \
 [[pdf]](https://arxiv.org/abs/2306.08204)
+
+### 추상화 및 추론 문제 해결을 위한 대조학습
+(Using Contrastive Learning for Abstraction and Reasoning Task)
+Gyojoon Gu, Woochang Sim, **Jaegyun Im**, Sejin Kim, Sundong Kim
+Korea Software Congress (KSC), 2023.
 
 ---
   
@@ -93,24 +94,27 @@ Courses
   * Engineering Electromagnetics 1 & 2, Electric Circuit
 
 * **Computer Science**
-    * Data Structure, Algorithms, Computer Systems, Signals and Systems, Automata, System Programming(In Progress), Database Systems(In Progress)
+    * Data Structure, Algorithms, Computer Systems, Signals and Systems, Automata, System Programming, Database Systems
   
 ### Minor
 * **Mathematics**
-  * Single Variable Calculus, Multi Variable Calculus, Linear Algebra, Differential Equations, Probability and Statistics, Measure and Probability Theory, Complex Analysis(In Progress), Graph Theory(In Progress)
+  * Single Variable Calculus, Multi Variable Calculus, Linear Algebra, Differential Equations, Probability and Statistics, Measure and Probability Theory, Complex Analysis, Graph Theory
 
 * **Economics and Business**
   * Microeconomics, Macroeconomics, Management, Global Economy, Public Finance
 
 ---
 
-Scholarship
+Awards & Scholarship
 =====
 * Government Sponsored Student
   * 2019 - present
 
 * GIST Scholarship for Academic Achievement
   * Fall 2022
+ 
+* GIST EECS 우수학사연구
+  * 장려상
 
 ---
 
@@ -118,6 +122,7 @@ License
 =====
 * Korean History Proficiency Test
   * Level 1
+
 * Taekwondo
   * 4th-degree black belt
 
