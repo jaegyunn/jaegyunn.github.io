@@ -52,8 +52,8 @@ ICML Workshop on Interactive Learning with Implicit Human Feedback, 2023 \
 [[pdf]](https://arxiv.org/abs/2306.08204)
 
 ### 추상화 및 추론 문제 해결을 위한 대조학습
-(Using Contrastive Learning for Abstraction and Reasoning Task)
-Gyojoon Gu, Woochang Sim, **Jaegyun Im**, Sejin Kim, Sundong Kim
+(Using Contrastive Learning for Abstraction and Reasoning Task) \
+Gyojoon Gu, Woochang Sim, **Jaegyun Im**, Sejin Kim, Sundong Kim \
 Korea Software Congress (KSC), 2023.
 
 ---
