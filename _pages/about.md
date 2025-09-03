@@ -17,6 +17,7 @@ Research Interest
 * Machine Learning and Deep Learning
 
 * Reinforcement Learning
+  
  ---
 
 Education
@@ -46,6 +47,21 @@ Experience
 
 Publications
 ======
+
+## Causal-Paced Deep Reinforcement Learning
+Geonwoo Cho, Jaegyun Im, Doyoon Kim, Sundong Kim
+RLC Workshop on The Causal Reinforcement Learning, 2025.
+[[pdf]](https://arxiv.org/abs/2507.02910)
+
+## TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design
+Geonwoo Cho, Jaegyun Im, Jihwan Lee, Hojun Yi, Sejin kim, Sundong Kim
+arXiv preprint. 2025
+[[pdf]](https://arxiv.org/abs/2506.19997)
+
+## AMPED: Adaptive Multi-objective Projection for balancing Exploration and skill Diversification
+Geonwoo Cho, Jaemoon Lee, **Jaegyun Im**, Subi Lee, Jihwan Lee, Sundong Kim
+arXiv preprint. 2025
+[[pdf]](https://arxiv.org/abs/2506.05980)
 
 ### 의사결정 트랜스포머를 사용한 추상화와 추론
 (Abstraction and Reasoning Challenge with Decision Transformer) \
