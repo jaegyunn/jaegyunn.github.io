@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-2023
-
+2025
+--- 
 * Causal-Paced Deep Reinforcement Learning
 Geonwoo Cho, **Jaegyun Im**, Doyoon Kim, Sundong Kim \
 RLC Workshop on The Causal Reinforcement Learning, 2025. 
