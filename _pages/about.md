@@ -50,20 +50,20 @@ Publications
 
 ## Causal-Paced Deep Reinforcement Learning \
 Geonwoo Cho, **Jaegyun Im**, Doyoon Kim, Sundong Kim \
-RLC Workshop on The Causal Reinforcement Learning, 2025. \
-[[pdf]](https://arxiv.org/abs/2507.02910) \
+RLC Workshop on The Causal Reinforcement Learning, 2025. 
+[[pdf]](https://arxiv.org/abs/2507.02910)
 [[code]](https://github.com/Cho-Geonwoo/CP-DRL)
 
 ## TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design \
 Geonwoo Cho, **Jaegyun Im**, Jihwan Lee, Hojun Yi, Sejin kim, Sundong Kim \
-arXiv preprint. 2025 \ 
-[[pdf]](https://arxiv.org/abs/2506.19997) \
+arXiv preprint. 2025 
+[[pdf]](https://arxiv.org/abs/2506.19997)
 [[code]](https://github.com/Cho-Geonwoo/TRACED)
 
 ## AMPED: Adaptive Multi-objective Projection for balancing Exploration and skill Diversification \
 Geonwoo Cho, Jaemoon Lee, **Jaegyun Im**, Subi Lee, Jihwan Lee, Sundong Kim \
-arXiv preprint. 2025 \
-[[pdf]](https://arxiv.org/abs/2506.05980) \
+arXiv preprint. 2025 
+[[pdf]](https://arxiv.org/abs/2506.05980)
 [[code]](https://github.com/Cho-Geonwoo/amped)
 
 ### 의사결정 트랜스포머를 사용한 추상화와 추론
@@ -73,7 +73,7 @@ Korea Computer Congress (KCC), 2023.
   
 ### Unraveling the ARC Puzzle: Mimicking Human Solutions with Object-Centric Decision Transformer
 Jaehyun Park, **Jaegyun Im**, Sanha Hwang, Mintaek Lim, Sabina Ualibekova, Sejin Kim, Sundong Kim \
-ICML Workshop on Interactive Learning with Implicit Human Feedback, 2023 \
+ICML Workshop on Interactive Learning with Implicit Human Feedback, 2023 
 [[pdf]](https://arxiv.org/abs/2306.08204)
 
 ### 추상화 및 추론 문제 해결을 위한 대조학습
