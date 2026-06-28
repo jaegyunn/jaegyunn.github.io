@@ -47,25 +47,32 @@ Experience
 Publications
 ======
 
+### 2026
+
+### TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design
+Geonwoo Cho, **Jaegyun Im**, Jihwan Lee, Hojun Yi, Sejin kim, Sundong Kim \
+ICLR, 2026
+CoRL Workshop on Resource-Rational Robot Learning, 2025
+[[Paper]](https://arxiv.org/abs/2506.19997)
+[[Project Page]](https://geonwoo.me/traced/)
+[[Code]](https://github.com/Cho-Geonwoo/TRACED)
+
+### AMPED: Adaptive Multi-objective Projection for balancing Exploration and skill Diversification
+Geonwoo Cho, Jaemoon Lee, **Jaegyun Im**, Subi Lee, Jihwan Lee, Sundong Kim \
+ICLR, 2026
+CoRL Workshop on Resource-Rational Robot Learning, 2025
+[[Paper]](https://arxiv.org/abs/2506.05980)
+[[Project Page]](https://geonwoo.me/amped/)
+[[Code]](https://github.com/Cho-Geonwoo/amped)
+
 ### 2025
 
 ### Causal-Paced Deep Reinforcement Learning
 Geonwoo Cho, **Jaegyun Im**, Doyoon Kim, Sundong Kim \
 RLC Workshop on The Causal Reinforcement Learning, 2025. 
-[[pdf]](https://arxiv.org/abs/2507.02910)
-[[code]](https://github.com/Cho-Geonwoo/CP-DRL)
+[[Paper]](https://arxiv.org/abs/2507.02910)
+[[Code]](https://github.com/Cho-Geonwoo/CP-DRL)
 
-### TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design
-Geonwoo Cho, **Jaegyun Im**, Jihwan Lee, Hojun Yi, Sejin kim, Sundong Kim \
-arXiv preprint. 2025 
-[[pdf]](https://arxiv.org/abs/2506.19997)
-[[code]](https://github.com/Cho-Geonwoo/TRACED)
-
-### AMPED: Adaptive Multi-objective Projection for balancing Exploration and skill Diversification
-Geonwoo Cho, Jaemoon Lee, **Jaegyun Im**, Subi Lee, Jihwan Lee, Sundong Kim \
-arXiv preprint. 2025 
-[[pdf]](https://arxiv.org/abs/2506.05980)
-[[code]](https://github.com/Cho-Geonwoo/amped)
 
 ### 2023
 
@@ -77,7 +84,7 @@ Korea Computer Congress (KCC), 2023.
 ### Unraveling the ARC Puzzle: Mimicking Human Solutions with Object-Centric Decision Transformer
 Jaehyun Park, **Jaegyun Im**, Sanha Hwang, Mintaek Lim, Sabina Ualibekova, Sejin Kim, Sundong Kim \
 ICML Workshop on Interactive Learning with Implicit Human Feedback, 2023 
-[[pdf]](https://arxiv.org/abs/2306.08204)
+[[Paper]](https://arxiv.org/abs/2306.08204)
 
 ### 추상화 및 추론 문제 해결을 위한 대조학습
 (Using Contrastive Learning for Abstraction and Reasoning Task) \
